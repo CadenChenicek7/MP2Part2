@@ -1,0 +1,32 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/caden/OneDrive/Desktop/School/CS 415/MP2/UnrealLearningKit/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
+				"C:/Users/caden/OneDrive/Desktop/School/CS 415/MP2/UnrealLearningKit/Content/MP2/MP2_Level.umap",
+				"C:/Users/caden/OneDrive/Desktop/School/CS 415/MP2/UnrealLearningKit/Content/Hour_of_Code/Blueprints/Game/BP_HourOfCode_Character.uasset",
+				"C:/Users/caden/OneDrive/Desktop/School/CS 415/MP2/UnrealLearningKit/Content/MP2/Actors/Platform.uasset",
+				"C:/Users/caden/OneDrive/Desktop/School/CS 415/MP2/UnrealLearningKit/Content/MP2/UI/Health_Bar.uasset",
+				"C:/Users/caden/OneDrive/Desktop/School/CS 415/MP2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"C:/Users/caden/OneDrive/Desktop/School/CS 415/MP2/UnrealLearningKit/Content/MP2/Actors/BP_Healthpack.uasset",
+				"C:/Users/caden/OneDrive/Desktop/School/CS 415/MP2/UnrealLearningKit/Content/MP2/Actors/BP_Collectable.uasset",
+				"C:/Users/caden/OneDrive/Desktop/School/CS 415/MP2/UnrealLearningKit/Content/MP2/UI/Score.uasset",
+				"C:/Users/caden/OneDrive/Desktop/School/CS 415/MP2/UnrealLearningKit/Content/MP2/Actors/Pursuer_AIController.uasset",
+				"C:/Users/caden/OneDrive/Desktop/School/CS 415/MP2/UnrealLearningKit/Content/MP2/Actors/BP_Pursuer.uasset",
+				"C:/Users/caden/OneDrive/Desktop/School/CS 415/MP2/UnrealLearningKit/Content/MP2/Actors/EAIState.uasset",
+				"C:/Users/caden/OneDrive/Desktop/School/CS 415/MP2/UnrealLearningKit/Content/MP2/UI/WBP_Restart.uasset",
+				"C:/Users/caden/OneDrive/Desktop/School/CS 415/MP2/UnrealLearningKit/Content/MP2/Actors/BP_Projectile.uasset",
+				"C:/Users/caden/OneDrive/Desktop/School/CS 415/MP2/UnrealLearningKit/Content/MP2/Actors/BP_Mortar.uasset",
+				"C:/Users/caden/OneDrive/Desktop/School/CS 415/MP2/UnrealLearningKit/Content/MP2/UI/WBP_Win.uasset",
+				"C:/Users/caden/OneDrive/Desktop/School/CS 415/MP2/UnrealLearningKit/Content/LearningKit_Games/Assets/Environment/Islands/SM_FloatingIsland_L.uasset",
+				"C:/Users/caden/OneDrive/Desktop/School/CS 415/MP2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Pickups/PowerUp_Pickup_BP_Child.uasset",
+				"C:/Users/caden/OneDrive/Desktop/School/CS 415/MP2/UnrealLearningKit/Content/MP2/Actors/BP_Custom.uasset",
+				"C:/Users/caden/OneDrive/Desktop/School/CS 415/MP2/UnrealLearningKit/Content/LearningKit_Games/MaterialLibrary/Emissives/MI_EmissiveB.uasset",
+				"C:/Users/caden/OneDrive/Desktop/School/CS 415/MP2/UnrealLearningKit/Content/UI/Health_Bar.uasset"
+			]
+		}
+	]
+}
